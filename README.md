@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Altente](https://altente.com)
+- 🔭 I’m currently working at [Altente](https://altente.com) as Lead JavaScript Developer.
 - 🌱 I’m currently reading [The Ideal Executive by Ichak Kalderon Adizes](https://www.goodreads.com/book/show/300025.The_Ideal_Executive)
 - 📫 How to reach me: [Telegram](https://t.me/I_Zabrodin)
 - 🔎 I'm interested in making HTML5 Games and web3
